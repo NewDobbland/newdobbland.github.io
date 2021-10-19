@@ -3,7 +3,7 @@ body {
 	height: auto;
 	margin: 0px;
 	background-image: url("bg.jpg");
-	background-size: 100vw;
+	background-size: cover;
 	background-repeat: no-repeat;
 }
 
