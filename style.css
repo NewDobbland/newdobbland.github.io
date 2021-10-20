@@ -119,6 +119,30 @@ p {
 	background: rgba(0, 0, 0, 0.7);
 }
 
+#al2 {
+	width: 50%;
+	height: auto;
+	float: left;
+	margin-left: 20%;
+	margin-top: 2%;
+	background-color: black;
+	color: white;
+	border-radius: 25px;
+	background: rgba(0, 0, 0, 0.7);
+}
+
 #al:hover {
 	background: rgba(0, 0, 0, 1);
+}
+
+#ab {
+	width: 20%;
+	height: auto;
+	float: left;
+	margin-left: 35%;
+	margin-top: 2%;
+	background-color: black;
+	color: white;
+	border-radius: 25px;
+	background: rgba(0, 0, 0, 0.7);
 }
