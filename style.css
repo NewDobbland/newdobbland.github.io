@@ -14,11 +14,11 @@ body {
 
 h1 {
 	padding-top: 2%;
-	font-size: 3vw;
+	font-size: 2.5vw;
 	font-weight: 600;
 	font-family: Luminari;
 	color: white;
-	background: rgba(0, 0, 0, 0.7);
+	float: left;
 }
 
 h2 {
@@ -51,18 +51,19 @@ p {
 
 #title {
 	width: 100vw;
-	height: 15vh;
+	height: 12vh;
 	float: left;
 	margin-bottom: 3vh;
 	margin-top: 2vh;
+	background: rgba(0, 0, 0, 0.7);
 }
 
 #logo {
-	width: 10%;
-	height: 100%;
+	width: 10vw;
+	height: 100vh;
 	float: left;
 	background-image: url("ndfav.png");
-	background-size: 89%;
+	background-size: 8vw;
 	background-repeat: no-repeat;
 	margin-left: 20%;
 }
@@ -73,8 +74,14 @@ p {
 	float: left;
 }
 
+#ttext {
+	width: 30vw;
+	height: 10vh;
+	float: left;
+}
+
 #top {
-	width: 30%;
+	width: 30vw;
 	height: auto;
 	float: left;
 	margin-left: 30%;
@@ -85,7 +92,7 @@ p {
 }
 
 #jim {
-	width: 50%;
+	width: 50vw;
 	height: auto;
 	float: left;
 	margin-left: 20%;
@@ -97,7 +104,7 @@ p {
 }
 
 #jim2 {
-	width: 50%;
+	width: 50vw;
 	height: auto;
 	float: left;
 	margin-left: 20%;
@@ -113,7 +120,7 @@ p {
 }
 
 #al {
-	width: 50%;
+	width: 50vw;
 	height: auto;
 	float: left;
 	margin-left: 20%;
@@ -125,7 +132,7 @@ p {
 }
 
 #al2 {
-	width: 50%;
+	width: 50vw;
 	height: auto;
 	float: left;
 	margin-left: 20%;
@@ -141,7 +148,7 @@ p {
 }
 
 #ab {
-	width: 20%;
+	width: 20vw;
 	height: auto;
 	float: left;
 	margin-left: 35%;
@@ -153,7 +160,7 @@ p {
 }
 
 #ab2 {
-	width: 50%;
+	width: 50vw;
 	height: auto;
 	float: left;
 	margin-left: 25%;
