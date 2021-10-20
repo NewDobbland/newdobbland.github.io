@@ -32,7 +32,7 @@ h2 {
 h3 {
 	font-family: Luminari;
 	text-align: center;
-	font-size: 1.5em;
+	font-size: 1.5vw;
 	font-weight: 300;
 }
 
@@ -160,4 +160,8 @@ p {
 	color: white;
 	border-radius: 25px;
 	background: rgba(0, 0, 0, 0.7);
+}
+
+#ab:hover {
+	background: rgba(0, 0, 0, 1);
 }
