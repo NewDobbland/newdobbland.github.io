@@ -39,7 +39,7 @@ h3 {
 p {
 	font-family: Luminari;
 	text-align: center;
-	font-size: 0.9em;
+	font-size: 0.9vw;
 	font-weight: 300;
 }
 
@@ -51,8 +51,9 @@ p {
 
 #title {
 	width: 100%;
-	height: 20%;
+	height: 10%;
 	float: left;
+	margin-bottom: 5%;
 }
 
 #logo {
