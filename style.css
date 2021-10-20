@@ -44,28 +44,28 @@ p {
 }
 
 #wrapper {
-	width: 98vw;
-	height: 110vh;
+	width: 100%;
+	height: 100vh;
 	margin: 0px;
 }
 
 #title {
-	width: 99vw;
-	height: 10%;
+	width: 100%;
+	height: 7.5%;
 	float: left;
 	margin-bottom: 3vh;
-	margin-top: 2vh;
+	margin-top: 2%;
 	background: rgba(0, 0, 0, 0.7);
 }
 
 #logo {
-	width: 10vw;
-	height: 15vh;
+	width: 5vw;
+	height: 10vh;
 	float: left;
 	background-image: url("ndfav.png");
-	background-size: 7vw;
+	background-size: 5vw;
 	background-repeat: no-repeat;
-	margin-left: 20%;
+	margin-left: 25%;
 }
 
 #lgap {
@@ -83,6 +83,7 @@ p {
 	width: 30vw;
 	height: auto;
 	float: left;
+	margin-top: 2.5%;
 	margin-left: 30%;
 	background-color: black;
 	color: white;
