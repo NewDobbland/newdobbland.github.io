@@ -26,18 +26,21 @@ h2 {
 	font-size: 2vw;
 	font-family: Luminari;
 	text-align: center;
+	font-weight: 300;
 }
 
 h3 {
 	font-family: Luminari;
 	text-align: center;
 	font-size: 1.5em;
+	font-weight: 300;
 }
 
 p {
 	font-family: Luminari;
 	text-align: center;
 	font-size: 0.9em;
+	font-weight: 300;
 }
 
 #wrapper {
@@ -140,6 +143,18 @@ p {
 	height: auto;
 	float: left;
 	margin-left: 35%;
+	margin-top: 2%;
+	background-color: black;
+	color: white;
+	border-radius: 25px;
+	background: rgba(0, 0, 0, 0.7);
+}
+
+#ab2 {
+	width: 50%;
+	height: auto;
+	float: left;
+	margin-left: 25%;
 	margin-top: 2%;
 	background-color: black;
 	color: white;
