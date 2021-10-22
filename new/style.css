@@ -1,0 +1,114 @@
+body {
+	height: 100%;
+	width: 100%;
+	background-color: grey;
+	margin: 0px;
+}
+
+h1 {
+
+}
+
+h2 {
+	margin-left: 10%;
+}
+
+p {
+
+}
+
+img {
+	float: left;
+	margin-left: 2%;
+}
+
+#wrapper {
+	height: 98vh;
+	width: 99vw;
+	margin: 0px;
+}
+
+#title {
+	width: 99vw;
+	height: 11vh;
+	background-color: black;
+	background: rgba(0, 0, 0, 0.7);
+	margin-top: 1%;
+	color: white;
+}
+
+#ttext {
+	float: left;
+	font-size: 2vh;
+	margin-left: 5%;
+}
+
+#nav {
+	float: left;
+	width: 20vw;
+	height: 60vh;
+	margin-left: 2%;
+}
+
+#tag1 {
+	width: 20vw;
+	height: 5vh;
+	margin-bottom: 2%;
+	margin-top: 25vh;
+	background-color: black;
+	background: rgba(0, 0, 0, 0.7);
+	color: white;
+}
+
+#tag2 {
+	width: 20vw;
+	height: 5vh;
+	margin-bottom: 2%;
+	background-color: black;
+	background: rgba(0, 0, 0, 0.7);
+	color: white;
+}
+
+#tag3 {
+	width: 20vw;
+	height: 5vh;
+	margin-bottom: 2%;
+	background-color: black;
+	background: rgba(0, 0, 0, 0.7);
+	color: white;
+}
+
+#tag4 {
+	width: 20vw;
+	height: 5vh;
+	margin-bottom: 2%;
+	background-color: black;
+	background: rgba(0, 0, 0, 0.7);	
+	color: white;
+}
+
+#tag1:hover {
+	background: rgba(0, 0, 0, 1);
+}
+
+#tag2:hover {
+	background: rgba(0, 0, 0, 1);
+}
+
+#tag3:hover {
+	background: rgba(0, 0, 0, 1);
+}
+
+#tag4:hover {
+	background: rgba(0, 0, 0, 1);
+}
+
+#main {
+	float: right;
+	margin-right: 20%;
+	margin-top: 10vh;
+	height: 70vh;
+	width: 40vw;
+	background-color: black;
+	background: rgba(0, 0, 0, 0.7);	
+}
