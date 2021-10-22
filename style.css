@@ -98,10 +98,10 @@ img {
 
 #main {
 	float: right;
-	margin-right: 20%;
+	margin-right: 10%;
 	margin-top: 10vh;
 	height: 70vh;
-	width: 50vw;
+	width: 60vw;
 	background-color: black;
 	background: rgba(0, 0, 0, 0.6);	
 	color: white;
