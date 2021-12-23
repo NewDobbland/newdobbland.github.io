@@ -1,0 +1,41 @@
+<html>
+
+	<head>
+			
+		<link rel="shortcut icon" href="{{ url_for('static', filename='favicon.ico') }}">
+		<link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+		
+		<title>DobDesign</title>
+	
+	</head>
+	
+	<body>
+	
+		<div id="wrapper">
+			
+			
+			<div id="title">
+				<div id="qmenu">
+					<p>Menu</p>
+				</div>
+				{% block title %}
+				{% endblock %}
+			</div>
+			
+			<div id="nav">
+				<a href="index.html">Home</a>
+				<a href="test1.html">Test1</a>
+				<a href="test2.html">Test2</a>
+			</div>
+			
+			<div id="mbody">
+				{% block content %}
+				{% endblock %}
+			</div>
+			
+			
+		</div>
+		
+	</body>
+
+</html>

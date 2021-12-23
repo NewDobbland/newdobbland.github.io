@@ -1,0 +1,75 @@
+body {
+	margin: 0px;
+}
+
+a {
+	color: inherit;
+	margin-left: 5%;
+	position: bottom;
+	font-size: 2vh;
+}
+
+h1 {
+	float: left;
+	margin-left: 3%;
+	font-size: 5vh;
+}
+
+input {
+	width: 15%;
+	background-color: white;
+	color: black;
+	float: center;
+	margin-left: 50%;
+}
+
+#wrapper {
+	height: 100%;
+	width: 100%;
+	margin: 0px;
+	padding: 0px;
+}
+
+#title {
+	height: 10%;
+	width: 100%;
+	background-color: black;
+	color: white;
+	float: left;
+	padding-bottom: 1%;
+	padding-left: 1%;
+}
+
+#nav {
+	width: 100%;
+	background-color: black;
+	color: white;
+	float: left;
+	padding-left: 5%;
+}
+
+#mbody {
+	width: 100%;
+	height: 60%;
+	background-color: grey;
+	margin: 0px;
+	padding: 0px;
+	float: left;
+}
+
+#qmenu {
+	width: 6%;
+	height: 70%;
+	background-color: grey;
+	float: left;
+	margin-top: 1.5%;
+	border-radius: 10%;
+}
+
+#sbody {
+	width: 50%;
+	height: 60%;
+	background-color: white;
+	float: left;
+	margin-left: 25%;
+}

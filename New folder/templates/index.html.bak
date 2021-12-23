@@ -1,0 +1,14 @@
+{% extends "base.html"%}
+
+{% block title %}
+	
+	<h1>Homepage</h1>
+	
+{% endblock %}
+
+
+{% block content %}
+
+	<h3>Homepage Content</h3>
+
+{% endblock %}

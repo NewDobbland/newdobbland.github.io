@@ -1,0 +1,14 @@
+{% extends "base.html"%}
+
+{% block title %}
+	
+	<h1>Test2</h1>
+	
+{% endblock %}
+
+
+{% block content %}
+
+	<p>Test2 Content</p>
+
+{% endblock %}
